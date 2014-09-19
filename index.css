@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+#btns{display:block; text-align:center;}
+button{
+ display:inline-block;
+}
+
+#wrapper{
+ width: 600px;
+ height: 600px;
+ border:1px solid black;
+ display:block;
+ margin: 0 auto;
+ 
+}
+table{
+ border-collapse: collapse;
+}
+td{background-color:grey;}
+.cellhover{background-color:red;}
